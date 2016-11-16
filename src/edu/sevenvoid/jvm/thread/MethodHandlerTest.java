@@ -1,7 +1,7 @@
 /**
  * 
  */
-package edu.sevenvoid.jvm.test;
+package edu.sevenvoid.jvm.thread;
 
 import java.lang.invoke.MethodHandle;
 import java.lang.invoke.MethodHandles;

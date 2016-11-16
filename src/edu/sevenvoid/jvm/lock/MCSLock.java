@@ -1,7 +1,7 @@
 /**
  * 
  */
-package edu.sevenvoid.jvm.test.locks;
+package edu.sevenvoid.jvm.lock;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicReference;

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package edu.sevenvoid.jvm.test;
+package edu.sevenvoid.jvm.thread;
 
 import java.util.concurrent.atomic.AtomicLong;
 
